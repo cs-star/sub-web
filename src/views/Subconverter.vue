@@ -267,7 +267,9 @@ export default {
               {
                 label: "不选，由接口提供方提供",
                 value: ""
-              },
+              }
+            ]
+          },
               {
                 label: "默认（全分组 重度用户使用）",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
