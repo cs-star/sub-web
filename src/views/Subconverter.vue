@@ -255,10 +255,10 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "SubConverter增强型后端": "https://api.aa01.ml/sub?",
+          "SubConverter增强型后端": "https://api.aabc.tk/sub?",
         },
         backendOptions: [
-          { value: "https://api.aa01.ml/sub?" },
+          { value: "https://api.aabc.tk/sub?" },
         ],
                 remoteConfig: [
           {
