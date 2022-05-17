@@ -256,9 +256,11 @@ export default {
         },
         customBackend: {
           "SubConverter增强型后端": "https://api.aa01.ml/sub?",
+	  "localhost:25500 本地版": "http://localhost:25500/sub?",
         },
         backendOptions: [
           { value: "https://api.aa01.ml/sub?" },
+	  { value: "http://localhost:25500/sub?" },
         ],
                 remoteConfig: [
           {
